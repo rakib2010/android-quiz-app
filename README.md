@@ -15,7 +15,7 @@
 
 ## Communication
 
-Our chat channel is on gitter [here](https://gitter.im/immadisairaj/Quiz)
+Our chat channel is on Facebook [here](https://www.facebook.com/rakib.hasanrb/)
 
 ## Development
 
