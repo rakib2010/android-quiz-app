@@ -1,13 +1,7 @@
 === Android Quiz App ===
 
 
-## Communication
 
-Our chat channel is on Facebook [here](https://www.facebook.com/rakib.hasanrb/)
-
-## Development
-
-A native Android app using Java for writing code.
 
 ### Installing
 
